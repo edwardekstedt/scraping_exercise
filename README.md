@@ -26,7 +26,7 @@ python3 scrape.py
 ```
 
 ## Known issues
-The program does not manage to get the html tag <i> to properly display in the downloaded page. 
+The program does not manage to get the html tag for icons to properly display them in the downloaded page. 
 
 ## Future work
 The functions that parse the css and js pages can be combined into a single help function with slightly different calls. 
