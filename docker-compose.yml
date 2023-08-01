@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tretton37:
+    image: tretton37
+    build:
+      context: .
+      dockerfile: ./Dockerfile
